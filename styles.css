@@ -10,7 +10,7 @@
     text-align: center;
     margin: 0;
     padding: 150px 150px;
-    clear: left;
+
 }
 .nav li{
     display: inline-block;
@@ -26,9 +26,9 @@ h2{
     font-size: 50px;
 }
 .button{
-    font-size: 50px;
+    font-size: 40px;
     border: none;
-    padding: 20px 30px;
+    padding: 20px 20px;
     cursor: pointer;
 }
 .x1{
@@ -37,7 +37,3 @@ h2{
     padding: 20px 30px;
     cursor: pointer;
 }
-.x2{
-    padding: 20px 30px;
-}
-
